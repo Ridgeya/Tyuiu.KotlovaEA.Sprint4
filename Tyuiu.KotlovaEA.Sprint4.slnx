@@ -29,6 +29,10 @@
     <Project Path="Tyuiu.KotlovaEA.Sprint4.Task5.V24.Test/Tyuiu.KotlovaEA.Sprint4.Task5.V24.Test.csproj" />
     <Project Path="Tyuiu.KotlovaEA.Sprint4.Task5.V24/Tyuiu.KotlovaEA.Sprint4.Task5.V24.csproj" />
   </Folder>
-  <Folder Name="/Task6/" />
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task6.V3.Lib/Tyuiu.KotlovaEA.Sprint4.Task6.V3.Lib.csproj" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task6.V3.Test/Tyuiu.KotlovaEA.Sprint4.Task6.V3.Test.csproj" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task6.V3/Tyuiu.KotlovaEA.Sprint4.Task6.V3.csproj" />
+  </Folder>
   <Folder Name="/Task7/" />
 </Solution>
