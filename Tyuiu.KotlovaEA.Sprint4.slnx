@@ -9,7 +9,11 @@
     <Project Path="Tyuiu.KotlovaEA.Sprint4.Task1.V6.Test/Tyuiu.KotlovaEA.Sprint4.Task1.V6.Test.csproj" />
     <Project Path="Tyuiu.KotlovaEA.Sprint4.Task1.V6/Tyuiu.KotlovaEA.Sprint4.Task1.V6.csproj" />
   </Folder>
-  <Folder Name="/Task2/" />
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task2.V1.Lib/Tyuiu.KotlovaEA.Sprint4.Task2.V1.Lib.csproj" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task2.V1.Test/Tyuiu.KotlovaEA.Sprint4.Task2.V1.Test.csproj" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task2.V1/Tyuiu.KotlovaEA.Sprint4.Task2.V1.csproj" />
+  </Folder>
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
 </Solution>
