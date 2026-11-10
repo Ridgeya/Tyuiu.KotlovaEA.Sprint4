@@ -4,4 +4,12 @@
     <Project Path="Tyuiu.KotlovaEA.Sprint4.Task0.V9.Test/Tyuiu.KotlovaEA.Sprint4.Task0.V9.Test.csproj" />
     <Project Path="Tyuiu.KotlovaEA.Sprint4.Task0.V9/Tyuiu.KotlovaEA.Sprint4.Task0.V9.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task1.V6.Lib/Tyuiu.KotlovaEA.Sprint4.Task1.V6.Lib.csproj" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task1.V6.Test/Tyuiu.KotlovaEA.Sprint4.Task1.V6.Test.csproj" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint4.Task1.V6/Tyuiu.KotlovaEA.Sprint4.Task1.V6.csproj" />
+  </Folder>
+  <Folder Name="/Task2/" />
+  <Folder Name="/Task3/" />
+  <Folder Name="/Task4/" />
 </Solution>
